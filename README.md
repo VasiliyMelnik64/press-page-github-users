@@ -15,7 +15,7 @@
 
 ## Tech stack
 
-- axios
+- typescript
 - react
 - matherial-ui
 - redux
@@ -24,6 +24,7 @@
 - typescript
 - cypress
 - eslint
+- axios
 
 ## Main Features
 
