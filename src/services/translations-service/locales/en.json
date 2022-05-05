@@ -1,0 +1,10 @@
+{
+  "home.heading.text": "Application to help clients see GitHub users",
+  "home.secondary.text": "This is the single page app that have two pages: home page and the users page that will show users from GitHub api. The users page holding the first 10 GitHub users with a possibility to delete (locally) any user with a button",
+  "error.message.common": "We are sorry — something has gone wrong.",
+  "users.list.view": "See users",
+  "users.delete": "Delete",
+  "users.github.info": "See GitHub profile",
+  "navigation.home": "Home",
+  "navigation.users": "Users"
+}

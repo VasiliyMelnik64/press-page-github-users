@@ -1,0 +1,13 @@
+{
+  "integrationFolder": "cypress/e2e",
+  "baseUrl": "http://localhost:3000",
+  "component": {
+    "integrationFolder": "cypress/e2e",
+    "testFiles": "**/*.spec.{ts,tsx}",
+    "chromeWebSecurity": false,
+    "viewportWidth": 1440,
+    "viewportHeight": 820,
+    "defaultCommandTimeout": 10000
+  },
+  "chromeWebSecurity": false
+}

@@ -1,0 +1,10 @@
+{
+  "home.heading.text": "Applicatie om klanten te helpen GitHub-gebruikers te zien",
+  "home.secondary.text": "Dit is de app met één pagina die twee pagina's heeft: de startpagina en de gebruikerspagina die gebruikers van GitHub api laat zien. De gebruikerspagina met de eerste 10 GitHub-gebruikers met de mogelijkheid om (lokaal) elke gebruiker met een knop te verwijderen",
+  "error.message.common": "Het spijt ons - er is iets misgegaan.",
+  "users.list.view": "Gebruikers bekijken",
+  "users.delete": "Uitwissen",
+  "users.github.info": "GitHub-profiel bekijken",
+  "navigation.home": "Thuis",
+  "navigation.users": "Gebruikers"
+}
