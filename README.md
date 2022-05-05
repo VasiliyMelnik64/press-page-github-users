@@ -2,10 +2,8 @@
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/24418879/166885411-d72450a7-33e2-4fc8-8345-a5f16dba1973.png">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/24418879/166885478-a716772b-7f25-49ae-83f1-204ca263b53c.png">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/24418879/166885599-6f6faa3e-ec05-4ead-846c-6d2846093598.png">
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/24418879/166885739-930b9d06-9bd5-4d57-a47a-5d004c57879c.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/24418879/166885866-37a6f567-a28d-46de-8e99-1749bfa735ac.png">
 
-
-## Available Scripts
 
 ## Get it Running
 
